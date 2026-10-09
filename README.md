@@ -1,6 +1,6 @@
 # Computer Programming: Test Repo
 
-## Samuel Bennington
+## Dennis Shaw
 
 ### Group FS4F
 ### Duncan Mullier
