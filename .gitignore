@@ -1,0 +1,23 @@
+# Environments
+
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte Code and the Like
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Likely IDE Config
+
+.idea/
+.vscode/

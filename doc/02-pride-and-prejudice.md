@@ -1,0 +1,6 @@
+# First Impressions
+
+*Jane Austen, **Pride and Prejudice**, Chapter 1*
+
+> It is a truth universally acknowledged, that a single man in possession of a good
+> fortune, must be in want of a wife.

@@ -1,0 +1,7 @@
+# Song of Myself
+
+*Walt Whitman, **Leaves of Grass***
+
+> I celebrate myself, and sing myself,
+> And what I assume you shall assume,
+> For every atom belonging to me as good belongs to you.
